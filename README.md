@@ -2,6 +2,17 @@
 ## Overview:
 The Library Management System's data analysis leverages Python and its libraries to extract insights. Utilizing Pandas and mysql-connector-python, it extracts, manipulates, and visualizes data from tables like Authors, Publishers, and Reviews. Matplotlib aids in generating visualizations, facilitating a comprehensive understanding of book distribution, member activity, and review trends.
 ## Purpose:
+**The Library Management System serves several key purposes:**
+
+**Organizing Resources:** It systematically manages books, authors, publishers, and categories, facilitating easy organization and retrieval of library resources.
+
+**Membership Management:** It handles member information, membership dates, and contact details, enabling efficient membership management and communication.
+
+**Book Transactions:** It tracks loan transactions, recording loan dates, return dates, and due dates, ensuring smooth handling of book borrowing and return processes.
+
+**User Engagement:** It allows members to review and rate books, enhancing user engagement and providing valuable feedback for future acquisitions.
+
+**Data Analysis:** It supports data analysis through Python and its libraries, enabling insights into book distribution, member activity, and review trends, aiding in decision-making and resource allocation.
 
 ## Database Schema:
 **The database consists of the following tables:**
